@@ -1,0 +1,8 @@
+poetry
+pre-commit
+httpie
+black
+ruff
+mypy
+basedpyright
+cookiecutter
